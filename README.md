@@ -10,7 +10,7 @@ Processing long audio recordings manually can be time-consuming. This project au
 
 1. Converting speech to text using Vosk.
 2. Restoring punctuation and capitalization.
-3. Generating concise summaries using Transformer-based NLP models.
+3. Generating concise summaries using Transformer-based NLP models
 
 The system can be used for:
 
